@@ -1,0 +1,9 @@
+C:\aspnetcore\Sistema\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.deps.json
+C:\aspnetcore\Sistema\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.runtimeconfig.json
+C:\aspnetcore\Sistema\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.runtimeconfig.dev.json
+C:\aspnetcore\Sistema\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.dll
+C:\aspnetcore\Sistema\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.pdb
+C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.csprojResolveAssemblyReference.cache
+C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.AssemblyInfo.cs
+C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.dll
+C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.pdb
