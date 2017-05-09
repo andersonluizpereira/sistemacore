@@ -10231,9 +10231,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aspnetcore\\sistemacore\\Sistema.Domain.Blog\\Sistema.Domain.Entities.csproj",
-      "projectName": "Sistema.Domain.Entities",
-      "projectPath": "C:\\aspnetcore\\sistemacore\\Sistema.Domain.Blog\\Sistema.Domain.Entities.csproj",
+      "projectUniqueName": "C:\\aspnetcore\\sistemacore\\Sistema.Domain.Blog\\Sistema.Domain.Core.csproj",
+      "projectName": "Sistema.Domain.Core",
+      "projectPath": "C:\\aspnetcore\\sistemacore\\Sistema.Domain.Blog\\Sistema.Domain.Core.csproj",
       "outputPath": "C:\\aspnetcore\\sistemacore\\Sistema.Domain.Blog\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [

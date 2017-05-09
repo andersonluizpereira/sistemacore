@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Databases", "05 - Data
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0", "3.0", "{8FBEC1E5-0E48-4525-9FED-C9BBEB2A2C1A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Domain.Entities", "Sistema.Domain.Blog\Sistema.Domain.Entities.csproj", "{2D60847F-D15B-49A5-9E82-3059D358B58C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Domain.Core", "Sistema.Domain.Blog\Sistema.Domain.Core.csproj", "{2D60847F-D15B-49A5-9E82-3059D358B58C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
