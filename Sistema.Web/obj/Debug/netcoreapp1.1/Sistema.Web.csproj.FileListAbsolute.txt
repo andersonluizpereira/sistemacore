@@ -7,3 +7,12 @@ C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.csprojReso
 C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.AssemblyInfo.cs
 C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.dll
 C:\aspnetcore\Sistema\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.pdb
+C:\aspnetcore\sistemacore\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.deps.json
+C:\aspnetcore\sistemacore\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.runtimeconfig.json
+C:\aspnetcore\sistemacore\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.runtimeconfig.dev.json
+C:\aspnetcore\sistemacore\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.dll
+C:\aspnetcore\sistemacore\Sistema.Web\bin\Debug\netcoreapp1.1\Sistema.Web.pdb
+C:\aspnetcore\sistemacore\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.csprojResolveAssemblyReference.cache
+C:\aspnetcore\sistemacore\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.AssemblyInfo.cs
+C:\aspnetcore\sistemacore\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.dll
+C:\aspnetcore\sistemacore\Sistema.Web\obj\Debug\netcoreapp1.1\Sistema.Web.pdb

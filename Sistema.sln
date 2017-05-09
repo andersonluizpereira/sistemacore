@@ -1,11 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.0
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{8D7D2200-5DA7-4FEA-B580-7B9EBCBE0F57}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00 - Presentation", "00 - Presentation", "{8D7D2200-5DA7-4FEA-B580-7B9EBCBE0F57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Web", "Sistema.Web\Sistema.Web.csproj", "{830F38EA-EEBE-490B-BD3E-F66C7BB3F8F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Distribuited Servies", "01 - Distribuited Servies", "{527CD4CF-B220-418B-B660-6DC026F75609}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{FD71E491-CE6A-4F20-AEAD-A610C619F6C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Domain", "03 - Domain", "{F331EFA9-4A81-4073-9C3E-0C1684E7E631}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Infrastructure", "04 - Infrastructure", "{30902929-9CBE-48D3-B08C-0A7DD299550A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Databases", "05 - Databases", "{1E546B48-B19B-4EF5-98F3-20BEF4E50CC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0", "3.0", "{8FBEC1E5-0E48-4525-9FED-C9BBEB2A2C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema.Domain.Entities", "Sistema.Domain.Blog\Sistema.Domain.Entities.csproj", "{2D60847F-D15B-49A5-9E82-3059D358B58C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +31,17 @@ Global
 		{830F38EA-EEBE-490B-BD3E-F66C7BB3F8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{830F38EA-EEBE-490B-BD3E-F66C7BB3F8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{830F38EA-EEBE-490B-BD3E-F66C7BB3F8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D60847F-D15B-49A5-9E82-3059D358B58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D60847F-D15B-49A5-9E82-3059D358B58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D60847F-D15B-49A5-9E82-3059D358B58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D60847F-D15B-49A5-9E82-3059D358B58C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{830F38EA-EEBE-490B-BD3E-F66C7BB3F8F7} = {8D7D2200-5DA7-4FEA-B580-7B9EBCBE0F57}
+		{8FBEC1E5-0E48-4525-9FED-C9BBEB2A2C1A} = {F331EFA9-4A81-4073-9C3E-0C1684E7E631}
+		{2D60847F-D15B-49A5-9E82-3059D358B58C} = {8FBEC1E5-0E48-4525-9FED-C9BBEB2A2C1A}
 	EndGlobalSection
 EndGlobal

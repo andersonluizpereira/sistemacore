@@ -1,0 +1,12 @@
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Sistema.Domain.Entities.deps.json
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Sistema.Domain.Entities.runtimeconfig.json
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Sistema.Domain.Entities.runtimeconfig.dev.json
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Sistema.Domain.Entities.dll
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\bin\Debug\netcoreapp1.1\Sistema.Domain.Entities.pdb
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\obj\Debug\netcoreapp1.1\Sistema.Domain.Entities.csprojResolveAssemblyReference.cache
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\obj\Debug\netcoreapp1.1\Sistema.Domain.Entities.AssemblyInfo.cs
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\obj\Debug\netcoreapp1.1\Sistema.Domain.Entities.dll
+C:\aspnetcore\sistemacore\Sistema.Domain.Blog\obj\Debug\netcoreapp1.1\Sistema.Domain.Entities.pdb
